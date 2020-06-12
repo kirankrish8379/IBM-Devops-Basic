@@ -9,4 +9,6 @@ yum install -y python36u python36u-libs python36u-devel python36u-pip
 
 date >> demo.txt
 echo "auto import demo"
+
+echo "I am triggered by UCD"
 exit 0
